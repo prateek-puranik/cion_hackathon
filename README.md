@@ -9,3 +9,4 @@ Private address can be updated in .env to shift users
 
 Private Keys of both owner and user in PrivateKey.txt
 
+Use Polygon Faucet to add MATIC Token to Metamask Accounts
