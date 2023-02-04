@@ -1,3 +1,10 @@
 ﻿# ipfs_flask
-Enter the virtual environement and then use pip
 Download all dependecies from requirements.txt
+
+Run Command:python index.py
+
+Private address can be updated in .env to shift users
+
+.env has contract ABI , Address(POLYGON TESTNET) and IPFS JWT
+Private Keys of both owner and user in PrivateKey.txt
+
